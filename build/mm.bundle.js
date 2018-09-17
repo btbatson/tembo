@@ -71955,8 +71955,8 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.msf.tembo",
-    "appname": "Tembo Plan B",
-    "desktopappname": "Moodle Desktop",
+    "appname": "eCampus Mobile",
+    "desktopappname": "eCampus Mobile",
     "versioncode" : "2023",
     "versionname" : "3.4.2",
     "cache_expiration_time" : 300000,
@@ -71966,7 +71966,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://msftembo.catalystdemo.co.uk",
+    "siteurl": "https://ecampus.msf.org",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
