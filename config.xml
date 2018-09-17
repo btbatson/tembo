@@ -5,10 +5,10 @@
         id        = "com.msf.tembo"
         versionCode = "20230"
         version   = "3.4.2">
-    <name>Tembo MVP</name>
+    <name>eCampus Mobile</name>
 
     <description>
-       Tembo MVP
+       eCampus Mobile
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
